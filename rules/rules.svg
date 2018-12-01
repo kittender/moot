@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1470.517mm"
+   height="296.13464mm"
+   viewBox="0 0 1470.517 296.13464"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="rules.svg">
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:stockid="Polka dots, medium"
+       id="Polkadots-med"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="10"
+       width="10"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <circle
+         id="circle1986"
+         r="0.15"
+         cy="0.810"
+         cx="2.567"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle1988"
+         r="0.15"
+         cy="2.33"
+         cx="3.048"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle1990"
+         r="0.15"
+         cy="2.415"
+         cx="4.418"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle1992"
+         r="0.15"
+         cy="3.029"
+         cx="1.844"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle1994"
+         r="0.15"
+         cy="1.363"
+         cx="6.08"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle1996"
+         r="0.15"
+         cy="4.413"
+         cx="5.819"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle1998"
+         r="0.15"
+         cy="4.048"
+         cx="4.305"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2000"
+         r="0.15"
+         cy="3.045"
+         cx="5.541"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2002"
+         r="0.15"
+         cy="5.527"
+         cx="4.785"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2004"
+         r="0.15"
+         cy="5.184"
+         cx="2.667"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2006"
+         r="0.15"
+         cy="1.448"
+         cx="7.965"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2008"
+         r="0.15"
+         cy="5.049"
+         cx="7.047"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2010"
+         r="0.15"
+         cy="0.895"
+         cx="4.340"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2012"
+         r="0.15"
+         cy="0.340"
+         cx="7.125"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2014"
+         r="0.15"
+         cy="1.049"
+         cx="9.553"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2016"
+         r="0.15"
+         cy="2.689"
+         cx="7.006"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2018"
+         r="0.15"
+         cy="2.689"
+         cx="8.909"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2020"
+         r="0.15"
+         cy="4.407"
+         cx="9.315"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2022"
+         r="0.15"
+         cy="3.870"
+         cx="7.820"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2024"
+         r="0.15"
+         cy="5.948"
+         cx="8.270"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2026"
+         r="0.15"
+         cy="7.428"
+         cx="7.973"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2028"
+         r="0.15"
+         cy="8.072"
+         cx="9.342"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2030"
+         r="0.15"
+         cy="9.315"
+         cx="8.206"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2032"
+         r="0.15"
+         cy="9.475"
+         cx="9.682"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2034"
+         r="0.15"
+         cy="6.186"
+         cx="9.688"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2036"
+         r="0.15"
+         cy="6.296"
+         cx="3.379"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2038"
+         r="0.15"
+         cy="8.204"
+         cx="2.871"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2040"
+         r="0.15"
+         cy="8.719"
+         cx="4.59"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2042"
+         r="0.15"
+         cy="9.671"
+         cx="3.181"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2044"
+         r="0.15"
+         cy="7.315"
+         cx="5.734"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2046"
+         r="0.15"
+         cy="6.513"
+         cx="6.707"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2048"
+         r="0.15"
+         cy="9.670"
+         cx="5.730"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2050"
+         r="0.15"
+         cy="8.373"
+         cx="6.535"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2052"
+         r="0.15"
+         cy="7.154"
+         cx="4.37"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2054"
+         r="0.15"
+         cy="7.25"
+         cx="0.622"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2056"
+         r="0.15"
+         cy="5.679"
+         cx="0.831"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2058"
+         r="0.15"
+         cy="8.519"
+         cx="1.257"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2060"
+         r="0.15"
+         cy="6.877"
+         cx="1.989"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2062"
+         r="0.15"
+         cy="3.181"
+         cx="0.374"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2064"
+         r="0.15"
+         cy="1.664"
+         cx="1.166"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2066"
+         r="0.15"
+         cy="0.093"
+         cx="1.151"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2068"
+         r="0.15"
+         cy="10.093"
+         cx="1.151"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2070"
+         r="0.15"
+         cy="4.451"
+         cx="1.302"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle2072"
+         r="0.15"
+         cy="3.763"
+         cx="3.047"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.20765639"
+     inkscape:cx="2818.3893"
+     inkscape:cy="954.88395"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(210.11078,-0.43267822)">
+    <g
+       id="g4718-8-4-2"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="translate(210.07386)"
+       inkscape:export-filename="C:\Users\seren\Documents\kittender\moot\rules\law-card-one.png">
+      <rect
+         ry="16.120232"
+         y="0.43267822"
+         x="-0.03692627"
+         height="296.13464"
+         width="210.07385"
+         id="rect4518-2-8-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(0,-2.73837)"
+         id="g4685-0-3-1">
+        <g
+           id="g4621-4-6-9">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-4-3-6"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-1-4-7"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-5-6-8" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-6-0-1">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-3-0-36"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-8-5-18"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-5-9-1" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara5122">Only one person speaks at any given time.</flowPara></flowRoot>        </g>
+        <g
+           transform="rotate(180,105,151.23837)"
+           id="g4621-3-0-1-1">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-3-4-3-67"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-8-0-3-1"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-1-3-3-2" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-1-3-9-7">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-9-2-7-1"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-9-1-3-9"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-9-5-8-8" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara4920-2">Only one person speaks at any given time.</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <g
+       id="g2765"
+       transform="translate(-210.07385)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\seren\Documents\kittender\moot\rules\law-card.png">
+      <rect
+         ry="16.120232"
+         y="0.43267822"
+         x="-0.03692627"
+         height="296.13464"
+         width="210.07385"
+         id="rect4518-2-8-0-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="11.386484"
+         y="43.913033"
+         x="30.807442"
+         height="209.17393"
+         width="148.38512"
+         id="rect4518-2-8-0-4-3"
+         style="fill:url(#Polkadots-med);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(420.14771)"
+       id="g4718-8-4-2-8"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\seren\Documents\kittender\moot\rules\law-card-timer.png">
+      <rect
+         ry="16.120232"
+         y="0.43267822"
+         x="-0.03692627"
+         height="296.13464"
+         width="210.07385"
+         id="rect4518-2-8-0-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(0,-2.73837)"
+         id="g4685-0-3-1-7">
+        <g
+           id="g4621-4-6-9-0">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-4-3-6-5"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-1-4-7-6"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-5-6-8-3" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-6-0-1-9">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-3-0-36-3"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-8-5-18-2"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-5-9-1-7" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara5122-0">Every intervention</flowPara><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1044">is timed.</flowPara></flowRoot>        </g>
+        <g
+           transform="rotate(180,105,151.23837)"
+           id="g4621-3-0-1-1-6">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-3-4-3-67-8"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-8-0-3-1-5"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-1-3-3-2-1" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-1-3-9-7-5">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-9-2-7-1-3"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-9-1-3-9-6"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-9-5-8-8-0" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara4920-2-5">Every intervention</flowPara><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1046">is timed.</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(2.5390625e-6)"
+       id="g4718-8-4-2-8-6"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\seren\Documents\kittender\moot\rules\law-card-coffee.png">
+      <rect
+         ry="16.120232"
+         y="0.43267822"
+         x="-0.03692627"
+         height="296.13464"
+         width="210.07385"
+         id="rect4518-2-8-0-7-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(0,-2.73837)"
+         id="g4685-0-3-1-7-6">
+        <g
+           id="g4621-4-6-9-0-8">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-4-3-6-5-0"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-1-4-7-6-8"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-5-6-8-3-9" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-6-0-1-9-8">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-3-0-36-3-8"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-8-5-18-2-0"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-5-9-1-7-0" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1044-0">You break the law,</flowPara><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1131">you buy coffees.</flowPara></flowRoot>        </g>
+        <g
+           transform="rotate(180,105,151.23837)"
+           id="g4621-3-0-1-1-6-2">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-3-4-3-67-8-4"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-8-0-3-1-5-5"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-1-3-3-2-1-6" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-1-3-9-7-5-8">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-9-2-7-1-3-4"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-9-1-3-9-6-1"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-9-5-8-8-0-7" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1046-2">You break the law,</flowPara><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1135">you buy coffees.</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(630.22156)"
+       id="g4718-8-4-2-8-2"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\seren\Documents\kittender\moot\rules\law-card-vote.png">
+      <rect
+         ry="16.120232"
+         y="0.43267822"
+         x="-0.03692627"
+         height="296.13464"
+         width="210.07385"
+         id="rect4518-2-8-0-7-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(0,-2.73837)"
+         id="g4685-0-3-1-7-9">
+        <g
+           id="g4621-4-6-9-0-7">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-4-3-6-5-1"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-1-4-7-6-6"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-5-6-8-3-0" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-6-0-1-9-9">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-3-0-36-3-6"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-8-5-18-2-8"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-5-9-1-7-7" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1044-2">The duration of a turn is voted by the team.</flowPara></flowRoot>        </g>
+        <g
+           transform="rotate(180,105,151.23837)"
+           id="g4621-3-0-1-1-6-3">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-3-4-3-67-8-1"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-8-0-3-1-5-52"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-1-3-3-2-1-7" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-1-3-9-7-5-3">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-9-2-7-1-3-3"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-9-1-3-9-6-8"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-9-5-8-8-0-4" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1046-4">The duration of a turn is voted by the team.</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(840.29541)"
+       id="g4718-8-4-2-8-2-6"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\seren\Documents\kittender\moot\rules\law-card-limit.png">
+      <rect
+         ry="16.120232"
+         y="0.43267822"
+         x="-0.03692627"
+         height="296.13464"
+         width="210.07385"
+         id="rect4518-2-8-0-7-4-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(0,-2.73837)"
+         id="g4685-0-3-1-7-9-3">
+        <g
+           id="g4621-4-6-9-0-7-5">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-4-3-6-5-1-1"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-1-4-7-6-6-8"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-5-6-8-3-0-7" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-6-0-1-9-9-4">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-3-0-36-3-6-1"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-8-5-18-2-8-6"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-5-9-1-7-7-0" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1044-2-4">Speaking can't last</flowPara><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1297">more than one turn.</flowPara></flowRoot>        </g>
+        <g
+           transform="rotate(180,105,151.23837)"
+           id="g4621-3-0-1-1-6-3-2">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-3-4-3-67-8-1-2"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-8-0-3-1-5-52-0"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-1-3-3-2-1-7-8" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-1-3-9-7-5-3-9">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-9-2-7-1-3-3-0"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-9-1-3-9-6-8-2"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-9-5-8-8-0-4-2" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1046-4-8">Speaking can't last</flowPara><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1299">more than one turn.</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(1050.3693)"
+       id="g4718-8-4-2-8-2-6-0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\seren\Documents\kittender\moot\rules\law-card-freedom.png">
+      <rect
+         ry="16.120232"
+         y="0.43267822"
+         x="-0.03692627"
+         height="296.13464"
+         width="210.07385"
+         id="rect4518-2-8-0-7-4-8-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(0,-2.73837)"
+         id="g4685-0-3-1-7-9-3-0">
+        <g
+           id="g4621-4-6-9-0-7-5-3">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-4-3-6-5-1-1-3"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-1-4-7-6-6-8-0"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-5-6-8-3-0-7-8" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-6-0-1-9-9-4-7">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-3-0-36-3-6-1-2"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-8-5-18-2-8-6-1"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-5-9-1-7-7-0-9" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1297-2">Speaking can last</flowPara><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1384">less than one turn</flowPara></flowRoot>        </g>
+        <g
+           transform="rotate(180,105,151.23837)"
+           id="g4621-3-0-1-1-6-3-2-2">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-1.1805976,3.183695)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4552-3-4-3-67-8-1-2-4"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               id="flowRegion4554-8-0-3-1-5-52-0-3"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+                 y="65.376831"
+                 x="71.428574"
+                 height="165.71428"
+                 width="657.14288"
+                 id="rect4556-1-3-3-2-1-7-8-4" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000000;fill-opacity:1"
+               id="flowPara4558-1-3-9-7-5-3-9-2">LAW</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-3.4068183,0)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4594-9-2-7-1-3-3-0-8"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+               id="flowRegion4596-9-1-3-9-6-8-2-7"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;fill:#000000"
+                 y="199.66254"
+                 x="77.14286"
+                 height="165.71428"
+                 width="665.71429"
+                 id="rect4598-9-5-8-8-0-4-2-5" /></flowRegion><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1299-8">Speaking can last</flowPara><flowPara
+               style="font-size:56px;fill:#000000"
+               id="flowPara1388">less than one turn</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.13378474"
+       d="m 92.739786,114.25114 c -0.2498,0.24144 -2.44092,2.45255 -2.45398,5.59544 -0.006,1.34778 0.41383,3.3733 2.44203,5.3691 0.83301,0.81943 1.24018,1.62736 1.24384,2.46927 0.006,1.4941 -1.23071,2.74951 -1.24326,2.76205 l 0.0114,-0.011 2.79027,2.88317 c 0.25033,-0.24144 2.44092,-2.45268 2.45399,-5.59505 0.006,-1.34778 -0.41331,-3.3733 -2.44203,-5.36909 -0.83302,-0.81996 -1.24013,-1.62796 -1.24326,-2.46986 -0.007,-1.49358 1.23065,-2.74931 1.24267,-2.76186 l -0.0114,0.0116 z m 9.059284,0 c -0.2498,0.24144 -2.441124,2.45255 -2.454184,5.59544 -0.005,1.34778 0.41403,3.3733 2.442234,5.3691 0.83354,0.81943 1.23999,1.62736 1.24364,2.46927 0.006,1.4941 -1.23071,2.74951 -1.24325,2.76205 l 0.0116,-0.011 2.79067,2.88317 c 0.2498,-0.24144 2.44105,-2.45268 2.45359,-5.59505 0.006,-1.34778 -0.41344,-3.3733 -2.44164,-5.36909 -0.83354,-0.81996 -1.23999,-1.62796 -1.24365,-2.46986 -0.006,-1.49358 1.23072,-2.74931 1.24326,-2.76186 l -0.0116,0.0116 z m 9.05928,0 c -0.2498,0.24144 -2.44105,2.45255 -2.4536,5.59544 -0.006,1.34778 0.41325,3.3733 2.44145,5.3691 0.83354,0.81943 1.24018,1.62736 1.24384,2.46927 0.006,1.4941 -1.23071,2.74951 -1.24325,2.76205 l 0.0116,-0.011 2.79067,2.88317 c 0.2498,-0.24144 2.44105,-2.45268 2.45359,-5.59505 0.006,-1.34778 -0.41344,-3.3733 -2.44164,-5.36909 -0.83354,-0.81996 -1.24018,-1.62796 -1.24384,-2.46986 -0.006,-1.49358 1.23072,-2.74931 1.24326,-2.76186 l -0.0114,0.0116 z m -27.125904,26.76531 v 8.56072 h 38.923514 v -0.93656 h 6.4205 v 3.74545 c 0,3.95501 -2.73985,7.28075 -6.4205,8.18328 v -6.9798 H 83.732446 v 9.69795 c 0,6.28841 2.99911,11.88855 7.64082,15.449 h -14.46228 v 4.01237 h 54.171854 v -4.01237 h -16.0673 c 4.29783,-3.29706 7.18668,-8.34332 7.59065,-14.06523 5.93252,-0.94172 10.48283,-6.09191 10.48283,-12.2852 v -7.75801 h -10.43306 v -3.6116 z"
+       id="path2" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 503.02922,114.04417 v 8.0903 h 44.23697 v -8.0903 z m 5.74229,12.12837 v 11.51507 l 8.10924,10.81239 -8.10924,10.81215 v 11.51507 h 32.75082 V 159.31215 L 533.41336,148.5 l 8.10923,-10.81214 v -11.51532 z m 19.516,10.25878 h 4.0378 v 4.03779 h -4.0378 z m -4.57617,5.7428 h 4.0378 v 4.0378 h -4.0378 z m -0.58332,20.09908 h 4.0378 v 4.03779 h -4.0378 z m -20.0988,12.59234 v 8.0903 h 44.23697 v -8.0903 z"
+       id="path2-1"
+       style="stroke-width:0.13459311" />
+    <path
+       style="stroke-width:0.57742149"
+       d="M 2009.9336 462.23047 L 2009.9336 649.71094 L 2055.8477 649.71094 L 2055.8477 462.23047 L 2009.9336 462.23047 z M 2114.9473 467.31836 L 2075.8887 489.86914 L 2084.5508 504.87109 L 2123.6074 482.32031 L 2114.9473 467.31836 z M 1992.6133 485.19727 L 1877.1621 520.6875 L 1877.1621 591.25391 L 1896.8613 597.31055 L 1896.8613 634.8418 L 1969.0039 657.01953 L 1969.0039 619.48633 L 1992.6133 626.74219 L 1992.6133 485.19727 z M 1837.1309 523.34766 L 1837.1309 588.5918 L 1859.8379 588.5918 L 1859.8379 523.34766 L 1837.1309 523.34766 z M 1937.7598 529.47852 L 1944.3711 529.47852 L 1944.3711 564.24219 L 1950.4453 564.24219 L 1950.4453 574.36523 L 1924.127 574.36523 L 1924.127 564.24219 L 1930.3906 564.24219 L 1930.3906 544.3457 C 1929.2519 544.64094 1927.6912 544.78906 1925.709 544.78906 C 1925.0763 544.78906 1924.5487 544.75663 1924.127 544.69336 L 1924.127 534.95117 C 1924.38 534.97223 1924.6438 534.98242 1924.918 534.98242 C 1927.6805 534.98242 1930.2417 534.44462 1932.6035 533.36914 C 1935.0075 532.27257 1936.7264 530.97574 1937.7598 529.47852 z M 2087.6699 547.30859 L 2087.6699 564.63086 L 2132.7695 564.63086 L 2132.7695 547.30859 L 2087.6699 547.30859 z M 1914.1836 602.63477 L 1951.6797 614.16211 L 1951.6797 633.57031 L 1914.1836 622.04492 L 1914.1836 602.63477 z M 2084.5566 607.07031 L 2075.8965 622.07227 L 2114.9531 644.62109 L 2123.6152 629.62109 L 2084.5566 607.07031 z "
+       transform="matrix(0.26458333,0,0,0.26458333,-210.11078,0.43267822)"
+       id="path2-6" />
+    <g
+       id="g1584"
+       transform="matrix(0.86421048,0,0,0.86421048,131.67766,21.028673)">
+      <path
+         sodipodi:nodetypes="ssssscccccccccc"
+         style="stroke-width:0.16840665"
+         id="path2-5"
+         d="m 938.23286,131.56979 c -16.3306,0 -29.6162,13.28582 -29.6162,29.61622 0,16.33039 13.2856,29.61621 29.6162,29.61621 16.3306,0 29.6162,-13.28582 29.6162,-29.61621 0,-16.3304 -13.2856,-29.61622 -29.6162,-29.61622 z m -3.0853,15.12995 h 4.4951 v 15.80819 l 10.4905,7.14873 -2.5313,3.71515 -12.4543,-8.48743 z m -10.4185,44.12255 c -1.503,-0.001 1.5033,10e-4 13.5278,0.0122 -6.0122,-0.005 -12.0247,-0.0108 -13.5278,-0.0122 z"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g906"
+         transform="matrix(0.1562968,0,0,0.1562968,902.59491,104.16616)">
+        <g
+           id="g6">
+          <g
+             id="g4" />
+        </g>
+        <g
+           id="g12">
+          <g
+             id="g10">
+            <rect
+               x="372.983"
+               width="30"
+               height="41.474998"
+               id="rect8"
+               y="0" />
+          </g>
+        </g>
+        <g
+           id="g18">
+          <g
+             id="g16">
+            <rect
+               x="327.66699"
+               y="20.743"
+               transform="matrix(0.7021,-0.7121,0.7121,0.7021,72.5459,256.3672)"
+               width="30.000999"
+               height="41.476002"
+               id="rect14" />
+          </g>
+        </g>
+        <g
+           id="g24">
+          <g
+             id="g22">
+            <rect
+               x="412.72699"
+               y="26.466999"
+               transform="matrix(0.7121,-0.7021,0.7021,0.7121,95.6857,316.2696)"
+               width="41.476002"
+               height="30"
+               id="rect20" />
+          </g>
+        </g>
+        <g
+           id="g30">
+          <g
+             id="g28">
+            <path
+               d="m 372.984,63.667 v 31.271 c 0,13.452 -10.943,24.395 -24.395,24.395 H 336.71 c -13.451,0 -24.395,-10.943 -24.395,-24.395 V 61.625 c 0,-27.409 -22.299,-49.708 -49.709,-49.708 h -9.039 c -27.409,0 -49.708,22.299 -49.708,49.708 v 47.096 h -37.433 v 49.14 c 4.95,-1.38 9.95,-2.56 15,-3.53 4.96,-0.97 9.96,-1.74 15,-2.32 7.4,-0.84 14.89,-1.26 22.43,-1.26 7.55,0 15.03,0.42 22.44,1.26 5.04,0.58 10.04,1.35 15,2.32 5.04,0.97 10.05,2.15 15,3.53 v -49.14 H 233.859 V 61.625 c 0,-10.867 8.841,-19.708 19.708,-19.708 h 9.039 c 10.868,0 19.709,8.841 19.709,19.708 v 33.314 c 0,29.994 24.401,54.395 54.395,54.395 h 11.879 c 29.993,0 54.395,-24.401 54.395,-54.395 V 63.667 Z"
+               id="path26"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       aria-label="1"
+       transform="matrix(0.42850496,0,0,0.42850496,-526.20891,-90.775341)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none"
+       id="flowRoot1586" />
+    <path
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.12490005"
+       d="m 1173.8422,116.5258 c -2.8315,-0.0129 -5.6419,0.59636 -7.5544,2.5091 l -4.9745,4.97447 -0.4426,16.3399 22.1357,-22.13604 c -1.848,-0.62571 -5.5236,-1.67082 -9.1642,-1.68743 z m 11.8134,4.33724 -22.2497,22.24963 16.4145,-0.51703 5.0142,-5.01418 c 4.3715,-4.37198 1.9344,-13.43298 0.821,-16.71842 z m -19.9289,2.89751 h 3.7592 v 3.77133 h -3.7592 z m -8.2742,4.10908 -4.088,4.08841 -0.4429,16.34007 4.0608,-4.06024 z m 18.8849,6.5137 h 3.7713 v 3.75927 h -3.7713 z m -26.8335,1.43495 -15.2603,15.2608 c -4.3714,4.37151 -1.934,13.43298 -0.8216,16.71844 l 15.6115,-15.61098 z m -16.0819,31.97924 -10.0271,10.02726 2.6498,2.64961 10.027,-10.02708 c -1.0728,-0.32688 -0.9385,-0.30834 -1.9607,-0.68939 -0.3811,-1.0231 -0.3625,-0.8885 -0.689,-1.9604 z m 2.6497,2.64979 c 3.2855,1.1124 12.3472,3.54984 16.7187,-0.82167 l 15.2006,-15.20061 -16.4491,0.55182 z m 39.8677,-23.97057 -16.4489,0.55126 -4.033,4.03351 16.4148,-0.51776 z m -36.8071,3.88459 h 3.7592 v 3.75927 h -3.7592 z m 10.6166,10.61658 h 3.7591 v 3.75906 h -3.7591 z"
+       id="path2-2" />
+    <g
+       id="g1646"
+       transform="matrix(0.4014325,0,0,0.4014325,439.8114,84.06069)">
+      <path
+         id="path2-59"
+         d="m 696.12266,205.60308 c -2.21313,-1.59577 -4.63709,-2.91593 -7.22367,-3.90811 5.86492,-3.7648 9.76063,-10.3394 9.76063,-17.80973 0,-11.66645 -9.49053,-21.15698 -21.15698,-21.15698 -11.66645,0 -21.15698,9.49053 -21.15698,21.15698 0,7.47033 3.89571,14.04493 9.75925,17.80973 -11.98753,4.5985 -20.52171,16.22774 -20.52171,29.81517 v 19.32419 h 47.80543 v -30.23547 c 0,-5.18142 0.93569,-10.24156 2.73403,-14.99578 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.35277709" />
+      <path
+         id="path4"
+         d="m 805.6751,201.69497 c 5.86354,-3.7648 9.75924,-10.3394 9.75924,-17.80973 0,-11.66645 -9.49053,-21.15698 -21.15698,-21.15698 -11.66506,0 -21.15697,9.49053 -21.15697,21.15698 0,7.47033 3.8957,14.04493 9.76062,17.80973 -2.58657,0.99218 -5.01053,2.31234 -7.22366,3.90811 1.79834,4.75422 2.73402,9.81436 2.73402,14.99578 v 30.23547 h 47.80543 v -19.32556 c 0,-13.58606 -8.53417,-25.2153 -20.5217,-29.8138 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.35277709" />
+      <path
+         id="path6"
+         d="M 711.91494,143.99938 735.89,131.39587 759.86506,143.99938 755.28723,117.3027 774.68308,98.396051 747.87753,94.501723 735.89,70.21247 723.90247,94.501723 697.09693,98.396051 716.49415,117.3027 Z m 0,0"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.35277709" />
+      <path
+         id="path8"
+         d="m 747.28773,190.78506 c 5.86355,-3.76617 9.75925,-10.34078 9.75925,-17.81111 0,-11.66644 -9.49053,-21.15698 -21.15698,-21.15698 -11.66507,0 -21.15698,9.49054 -21.15698,21.15698 0,7.47033 3.89709,14.04494 9.76063,17.81111 -11.98891,4.59713 -20.52309,16.22637 -20.52309,29.8138 v 30.23547 h 63.83888 v -30.23547 c 0,-13.58743 -8.53418,-25.21667 -20.52171,-29.8138 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.35277709" />
+    </g>
+  </g>
+</svg>
