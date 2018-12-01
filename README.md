@@ -66,7 +66,7 @@ These cards are meant to structure the game around a productive goal.
 
 Knowing the subject that the game must address, the Facilitator picks the most representative **goal card** which matches the subject's underlying goal. The card is placed at the center of the table, visible by everyone. A sticky note is placed by its side with the game subject written down on it. Each **goal card** defines its winning condition.
 
-The Facilitator starts the game by exposing his/her understanding of the subject while ending the introduction by inviting people to expose their own understanding and start using a ME card to do so.
+The Facilitator starts the game by exposing his/her understanding of the subject while ending the introduction by inviting people to expose their own understanding and start using a SPEAK card to do so.
 
 #### Winning the game session
 Each player places his/her pawn before them, and can *move it closer or further* to the goal card to express their appreciation on whether the winning condition is met.
@@ -111,7 +111,7 @@ These cards are meant to orchestrate discussions without unnecessary voicing and
 ![Moot cards](mooters.png)
 
 #### How do players handle moot ?
-* They raise a **ME** card to request a speaking turn.
+* They raise a **SPEAK** card to request a speaking turn.
 * The person speaking can let somebody else speak, which ends the current turn, and starts another.
 * First to raise, first to speak, unless you let your turn to somebody else.
 * The Facilitator launches and stops the timer.
@@ -130,15 +130,15 @@ At the end of the game, points will help players realize their degree of implica
 During the game, points must be "paid" to break the flow by asking for a timeout or a break.
 
 ### Moot cards
-* Playing a **ME** makes the player win a point
+* Playing a **SPEAK** makes the player win 1 point
 * Playing a **BREAK** makes the player pays 5 points
-* Playing a **TIMEOUT** makes the player pays 3 points
+* Playing a **TIMEOUT** makes the player pays 5 points
 
 ### Action cards
-* Playing a **FIX** makes the player win 3 points
-* Playing a **TODO** makes the player win 8 points
+* Playing a **FIX** makes the player win 1 points
+* Playing a **TODO** makes the player win 5 points
 * Playing a **DO** makes the player win 10 points
 
 ### Vision cards
-* Playing a *breaker card* makes the player win 4 points
+* Playing a *breaker card* makes the player win 5 points
 * Playing a *builder card* makes the player win 5 points
